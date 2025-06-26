@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": "3ea2",
+      "title": "speaker",
+      "price": "323",
+      "description": "ulkj\n",
+      "auther": "kareem"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
